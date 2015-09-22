@@ -1,0 +1,571 @@
+Node:      0, Layer:     RoutingAodv, Number of Route Requests Txed = 96
+Node:      0, Layer:     RoutingAodv, Number of Replies Txed = 1
+Node:      0, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      0, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      0, Layer:     RoutingAodv, Number of CTRL Packets Txed = 97
+Node:      0, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      0, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      0, Layer:     RoutingAodv, Number of Data Txed = 2
+Node:      0, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      0, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      0, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      0, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      0, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      0, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 116
+Node:      0, Layer:       NetworkIp, Number of Packets Routed For Another Node: 2
+Node:      0, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      0, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      0, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      0, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      1, Layer:     RoutingAodv, Number of Route Requests Txed = 215
+Node:      1, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:      1, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      1, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      1, Layer:     RoutingAodv, Number of CTRL Packets Txed = 215
+Node:      1, Layer:     RoutingAodv, Number of Routes Selected = 13
+Node:      1, Layer:     RoutingAodv, Number of Hop Counts = 91
+Node:      1, Layer:     RoutingAodv, Number of Data Txed = 59
+Node:      1, Layer:     RoutingAodv, Number of Data Packets Originated = 59
+Node:      1, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      1, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 77
+Node:      1, Layer:     RoutingAodv, Number of Broken Links = 7
+Node:      1, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      1, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 305
+Node:      1, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:      1, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      1, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      1, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      1, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      2, Layer:     RoutingAodv, Number of Route Requests Txed = 95
+Node:      2, Layer:     RoutingAodv, Number of Replies Txed = 1
+Node:      2, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 1
+Node:      2, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      2, Layer:     RoutingAodv, Number of CTRL Packets Txed = 96
+Node:      2, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      2, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      2, Layer:     RoutingAodv, Number of Data Txed = 4
+Node:      2, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      2, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      2, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      2, Layer:     RoutingAodv, Number of Broken Links = 1
+Node:      2, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      2, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 110
+Node:      2, Layer:       NetworkIp, Number of Packets Routed For Another Node: 4
+Node:      2, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      2, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      2, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      2, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      3, Layer:     RoutingAodv, Number of Route Requests Txed = 67
+Node:      3, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:      3, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      3, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      3, Layer:     RoutingAodv, Number of CTRL Packets Txed = 67
+Node:      3, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      3, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      3, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:      3, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      3, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      3, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      3, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      3, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      3, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 67
+Node:      3, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:      3, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      3, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      3, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      3, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      4, Layer:     RoutingAodv, Number of Route Requests Txed = 63
+Node:      4, Layer:     RoutingAodv, Number of Replies Txed = 3
+Node:      4, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      4, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      4, Layer:     RoutingAodv, Number of CTRL Packets Txed = 66
+Node:      4, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      4, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      4, Layer:     RoutingAodv, Number of Data Txed = 1
+Node:      4, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      4, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      4, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      4, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      4, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      4, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 104
+Node:      4, Layer:       NetworkIp, Number of Packets Routed For Another Node: 1
+Node:      4, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      4, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      4, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      4, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      5, Layer:     RoutingAodv, Number of Route Requests Txed = 63
+Node:      5, Layer:     RoutingAodv, Number of Replies Txed = 3
+Node:      5, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      5, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      5, Layer:     RoutingAodv, Number of CTRL Packets Txed = 66
+Node:      5, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      5, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      5, Layer:     RoutingAodv, Number of Data Txed = 4
+Node:      5, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      5, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      5, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      5, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      5, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      5, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 84
+Node:      5, Layer:       NetworkIp, Number of Packets Routed For Another Node: 4
+Node:      5, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      5, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      5, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      5, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      6, Layer:     RoutingAodv, Number of Route Requests Txed = 86
+Node:      6, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:      6, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      6, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      6, Layer:     RoutingAodv, Number of CTRL Packets Txed = 86
+Node:      6, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      6, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      6, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:      6, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      6, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      6, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      6, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      6, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      6, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 102
+Node:      6, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:      6, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      6, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      6, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      6, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      7, Layer:     RoutingAodv, Number of Route Requests Txed = 104
+Node:      7, Layer:     RoutingAodv, Number of Replies Txed = 5
+Node:      7, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      7, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      7, Layer:     RoutingAodv, Number of CTRL Packets Txed = 109
+Node:      7, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      7, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      7, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:      7, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      7, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      7, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      7, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      7, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      7, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 139
+Node:      7, Layer:       NetworkIp, Number of Packets Routed For Another Node: 35
+Node:      7, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      7, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      7, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      7, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      8, Layer:     RoutingAodv, Number of Route Requests Txed = 57
+Node:      8, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:      8, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      8, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      8, Layer:     RoutingAodv, Number of CTRL Packets Txed = 57
+Node:      8, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      8, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      8, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:      8, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      8, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      8, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      8, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      8, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      8, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 57
+Node:      8, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:      8, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      8, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      8, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      8, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:      9, Layer:     RoutingAodv, Number of Route Requests Txed = 63
+Node:      9, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:      9, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:      9, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:      9, Layer:     RoutingAodv, Number of CTRL Packets Txed = 63
+Node:      9, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:      9, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:      9, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:      9, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:      9, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:      9, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:      9, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:      9, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:      9, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 77
+Node:      9, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:      9, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:      9, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:      9, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:      9, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     10, Layer:     RoutingAodv, Number of Route Requests Txed = 80
+Node:     10, Layer:     RoutingAodv, Number of Replies Txed = 1
+Node:     10, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     10, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     10, Layer:     RoutingAodv, Number of CTRL Packets Txed = 81
+Node:     10, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     10, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     10, Layer:     RoutingAodv, Number of Data Txed = 5
+Node:     10, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     10, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     10, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     10, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     10, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     10, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 104
+Node:     10, Layer:       NetworkIp, Number of Packets Routed For Another Node: 5
+Node:     10, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     10, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     10, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     10, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     11, Layer:     RoutingAodv, Number of Route Requests Txed = 56
+Node:     11, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:     11, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     11, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     11, Layer:     RoutingAodv, Number of CTRL Packets Txed = 56
+Node:     11, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     11, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     11, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:     11, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     11, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     11, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     11, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     11, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     11, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 56
+Node:     11, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:     11, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     11, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     11, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     11, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     12, Layer:     RoutingAodv, Number of Route Requests Txed = 106
+Node:     12, Layer:     RoutingAodv, Number of Replies Txed = 1
+Node:     12, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 1
+Node:     12, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     12, Layer:     RoutingAodv, Number of CTRL Packets Txed = 107
+Node:     12, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     12, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     12, Layer:     RoutingAodv, Number of Data Txed = 6
+Node:     12, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     12, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     12, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     12, Layer:     RoutingAodv, Number of Broken Links = 1
+Node:     12, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     12, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 157
+Node:     12, Layer:       NetworkIp, Number of Packets Routed For Another Node: 6
+Node:     12, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     12, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     12, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     12, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     13, Layer:     RoutingAodv, Number of Route Requests Txed = 59
+Node:     13, Layer:     RoutingAodv, Number of Replies Txed = 2
+Node:     13, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     13, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     13, Layer:     RoutingAodv, Number of CTRL Packets Txed = 61
+Node:     13, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     13, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     13, Layer:     RoutingAodv, Number of Data Txed = 1
+Node:     13, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     13, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     13, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     13, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     13, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     13, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 63
+Node:     13, Layer:       NetworkIp, Number of Packets Routed For Another Node: 1
+Node:     13, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     13, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     13, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     13, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     14, Layer:     RoutingAodv, Number of Route Requests Txed = 65
+Node:     14, Layer:     RoutingAodv, Number of Replies Txed = 5
+Node:     14, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     14, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     14, Layer:     RoutingAodv, Number of CTRL Packets Txed = 70
+Node:     14, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     14, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     14, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:     14, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     14, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     14, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     14, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     14, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     14, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 90
+Node:     14, Layer:       NetworkIp, Number of Packets Routed For Another Node: 6
+Node:     14, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     14, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     14, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     14, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     15, Layer:     RoutingAodv, Number of Route Requests Txed = 98
+Node:     15, Layer:     RoutingAodv, Number of Replies Txed = 1
+Node:     15, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     15, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     15, Layer:     RoutingAodv, Number of CTRL Packets Txed = 99
+Node:     15, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     15, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     15, Layer:     RoutingAodv, Number of Data Txed = 8
+Node:     15, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     15, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     15, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     15, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     15, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     15, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 144
+Node:     15, Layer:       NetworkIp, Number of Packets Routed For Another Node: 8
+Node:     15, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     15, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     15, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     15, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     16, Layer:     RoutingAodv, Number of Route Requests Txed = 72
+Node:     16, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:     16, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     16, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     16, Layer:     RoutingAodv, Number of CTRL Packets Txed = 72
+Node:     16, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     16, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     16, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:     16, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     16, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     16, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     16, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     16, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     16, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 80
+Node:     16, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:     16, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     16, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     16, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     16, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     17, Layer:     RoutingAodv, Number of Route Requests Txed = 28
+Node:     17, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:     17, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     17, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     17, Layer:     RoutingAodv, Number of CTRL Packets Txed = 28
+Node:     17, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     17, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     17, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:     17, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     17, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     17, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     17, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     17, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     17, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 28
+Node:     17, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:     17, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     17, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     17, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     17, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     18, Layer:     RoutingAodv, Number of Route Requests Txed = 104
+Node:     18, Layer:     RoutingAodv, Number of Replies Txed = 2
+Node:     18, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 1
+Node:     18, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     18, Layer:     RoutingAodv, Number of CTRL Packets Txed = 106
+Node:     18, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     18, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     18, Layer:     RoutingAodv, Number of Data Txed = 2
+Node:     18, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     18, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     18, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     18, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     18, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     18, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 128
+Node:     18, Layer:       NetworkIp, Number of Packets Routed For Another Node: 2
+Node:     18, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     18, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     18, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     18, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     19, Layer:     RoutingAodv, Number of Route Requests Txed = 100
+Node:     19, Layer:     RoutingAodv, Number of Replies Txed = 2
+Node:     19, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     19, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     19, Layer:     RoutingAodv, Number of CTRL Packets Txed = 102
+Node:     19, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     19, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     19, Layer:     RoutingAodv, Number of Data Txed = 5
+Node:     19, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     19, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     19, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     19, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     19, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     19, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 130
+Node:     19, Layer:       NetworkIp, Number of Packets Routed For Another Node: 5
+Node:     19, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     19, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     19, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     19, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     20, Layer:     RoutingAodv, Number of Route Requests Txed = 99
+Node:     20, Layer:     RoutingAodv, Number of Replies Txed = 3
+Node:     20, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 2
+Node:     20, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     20, Layer:     RoutingAodv, Number of CTRL Packets Txed = 102
+Node:     20, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     20, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     20, Layer:     RoutingAodv, Number of Data Txed = 2
+Node:     20, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     20, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     20, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     20, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     20, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     20, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 160
+Node:     20, Layer:       NetworkIp, Number of Packets Routed For Another Node: 2
+Node:     20, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     20, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     20, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     20, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     21, Layer:     RoutingAodv, Number of Route Requests Txed = 69
+Node:     21, Layer:     RoutingAodv, Number of Replies Txed = 0
+Node:     21, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     21, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     21, Layer:     RoutingAodv, Number of CTRL Packets Txed = 69
+Node:     21, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     21, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     21, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:     21, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     21, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     21, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     21, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     21, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     21, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 70
+Node:     21, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:     21, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     21, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     21, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     21, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     22, Layer:     RoutingAodv, Number of Route Requests Txed = 111
+Node:     22, Layer:     RoutingAodv, Number of Replies Txed = 2
+Node:     22, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     22, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     22, Layer:     RoutingAodv, Number of CTRL Packets Txed = 113
+Node:     22, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     22, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     22, Layer:     RoutingAodv, Number of Data Txed = 5
+Node:     22, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     22, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     22, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     22, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     22, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     22, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 139
+Node:     22, Layer:       NetworkIp, Number of Packets Routed For Another Node: 5
+Node:     22, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     22, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     22, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     22, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     23, Layer:     RoutingAodv, Number of Route Requests Txed = 104
+Node:     23, Layer:     RoutingAodv, Number of Replies Txed = 9
+Node:     23, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 5
+Node:     23, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     23, Layer:     RoutingAodv, Number of CTRL Packets Txed = 113
+Node:     23, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     23, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     23, Layer:     RoutingAodv, Number of Data Txed = 25
+Node:     23, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     23, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     23, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     23, Layer:     RoutingAodv, Number of Broken Links = 2
+Node:     23, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     23, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 193
+Node:     23, Layer:       NetworkIp, Number of Packets Routed For Another Node: 25
+Node:     23, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     23, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     23, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     23, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     24, Layer:     RoutingAodv, Number of Route Requests Txed = 87
+Node:     24, Layer:     RoutingAodv, Number of Replies Txed = 8
+Node:     24, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 2
+Node:     24, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     24, Layer:     RoutingAodv, Number of CTRL Packets Txed = 95
+Node:     24, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     24, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     24, Layer:     RoutingAodv, Number of Data Txed = 7
+Node:     24, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     24, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     24, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     24, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     24, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     24, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 126
+Node:     24, Layer:       NetworkIp, Number of Packets Routed For Another Node: 7
+Node:     24, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     24, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     24, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     24, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     25, Layer:     RoutingAodv, Number of Route Requests Txed = 61
+Node:     25, Layer:     RoutingAodv, Number of Replies Txed = 5
+Node:     25, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 1
+Node:     25, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     25, Layer:     RoutingAodv, Number of CTRL Packets Txed = 66
+Node:     25, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     25, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     25, Layer:     RoutingAodv, Number of Data Txed = 6
+Node:     25, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     25, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     25, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     25, Layer:     RoutingAodv, Number of Broken Links = 1
+Node:     25, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     25, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 90
+Node:     25, Layer:       NetworkIp, Number of Packets Routed For Another Node: 6
+Node:     25, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     25, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     25, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     25, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     26, Layer:     RoutingAodv, Number of Route Requests Txed = 85
+Node:     26, Layer:     RoutingAodv, Number of Replies Txed = 2
+Node:     26, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 1
+Node:     26, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     26, Layer:     RoutingAodv, Number of CTRL Packets Txed = 87
+Node:     26, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     26, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     26, Layer:     RoutingAodv, Number of Data Txed = 1
+Node:     26, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     26, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     26, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     26, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     26, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     26, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 108
+Node:     26, Layer:       NetworkIp, Number of Packets Routed For Another Node: 1
+Node:     26, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     26, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     26, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     26, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     27, Layer:     RoutingAodv, Number of Route Requests Txed = 86
+Node:     27, Layer:     RoutingAodv, Number of Replies Txed = 5
+Node:     27, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 2
+Node:     27, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     27, Layer:     RoutingAodv, Number of CTRL Packets Txed = 91
+Node:     27, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     27, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     27, Layer:     RoutingAodv, Number of Data Txed = 12
+Node:     27, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     27, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     27, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     27, Layer:     RoutingAodv, Number of Broken Links = 1
+Node:     27, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     27, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 139
+Node:     27, Layer:       NetworkIp, Number of Packets Routed For Another Node: 12
+Node:     27, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     27, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     27, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     27, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     28, Layer:     RoutingAodv, Number of Route Requests Txed = 86
+Node:     28, Layer:     RoutingAodv, Number of Replies Txed = 4
+Node:     28, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 1
+Node:     28, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     28, Layer:     RoutingAodv, Number of CTRL Packets Txed = 90
+Node:     28, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     28, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     28, Layer:     RoutingAodv, Number of Data Txed = 10
+Node:     28, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     28, Layer:     RoutingAodv, Number of Data Packets Received = 0
+Node:     28, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     28, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     28, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     28, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 130
+Node:     28, Layer:       NetworkIp, Number of Packets Routed For Another Node: 10
+Node:     28, Layer:       NetworkIp, Number of Packets Delivered To this Node: 0
+Node:     28, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 0
+Node:     28, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     28, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
+Node:     29, Layer:     RoutingAodv, Number of Route Requests Txed = 0
+Node:     29, Layer:     RoutingAodv, Number of Replies Txed = 9
+Node:     29, Layer:     RoutingAodv, Number of Route Errors (RERR) Txed = 0
+Node:     29, Layer:     RoutingAodv, Number of Route Errors (RERR) Re-sent = 0
+Node:     29, Layer:     RoutingAodv, Number of CTRL Packets Txed = 9
+Node:     29, Layer:     RoutingAodv, Number of Routes Selected = 0
+Node:     29, Layer:     RoutingAodv, Number of Hop Counts = 0
+Node:     29, Layer:     RoutingAodv, Number of Data Txed = 0
+Node:     29, Layer:     RoutingAodv, Number of Data Packets Originated = 0
+Node:     29, Layer:     RoutingAodv, Number of Data Packets Received = 5
+Node:     29, Layer:     RoutingAodv, Number of Packets Dropped or Left waiting for Route = 0
+Node:     29, Layer:     RoutingAodv, Number of Broken Links = 0
+Node:     29, Layer:     RoutingAodv, Number of Broken Link Retries = 0
+Node:     29, Layer:       NetworkIp, Number of Packet Attepted to be Sent to MAC: 19
+Node:     29, Layer:       NetworkIp, Number of Packets Routed For Another Node: 0
+Node:     29, Layer:       NetworkIp, Number of Packets Delivered To this Node: 5
+Node:     29, Layer:       NetworkIp, Total of the TTL's of Delivered Packets: 285
+Node:     29, Layer:       NetworkIp, Average Hop Count Assuming 64 Inital TTL 7.000000
+Node:     29, Layer:       NetworkIp, Number Fragments dropped because Node was Unreachable: 0
+Node:     29, Layer:       NetworkIp, Number Fragments dropped because TTL expired: 0
